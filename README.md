@@ -194,5 +194,3 @@ per-chunk timings, real CSVs, real matplotlib output. No synthetic or
 hard-coded benchmark values anywhere in the pipeline.
 
 ---
-
-That README gives you: motivation, methodology, exact results table, honest interpretation, metrics definitions, reproduction steps, and a mapping from notebook cells to report sections. Every number in it is pulled directly from your actual `experiment.py` output.
