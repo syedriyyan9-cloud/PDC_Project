@@ -1,3 +1,7 @@
+# Project Name: Parallel Prime Counting: Static vs Dynamic Scheduling
+
+---
+
 # Parallel Prime Counting with Static vs. Dynamic Load Balancing
 
 A Parallel and Distributed Computing (PDC) project demonstrating how workload
